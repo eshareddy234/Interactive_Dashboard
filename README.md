@@ -12,5 +12,3 @@ I used the data to get meaningful data and solve some of the questions.Which inc
 7.Which month got highest sales and orders?
 
 I created interactive dashboard,and options to see data based on various classification.
-
-
